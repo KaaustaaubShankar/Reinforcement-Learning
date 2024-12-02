@@ -1,3 +1,4 @@
+# Chapter 2
 **k-armed**: you have k number of levers and the action has an expected mean rewards
 
 By introducing $\epsilon$, we are able to allow for exploration which after many steps allows for increased gains in average rewards and percent of optimal action. The value for epsilon needs to be scaled in regards to the reward's variance.
